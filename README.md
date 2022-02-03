@@ -1,7 +1,7 @@
 # MyFitbit-DataAnalysis using AWS
 
 
-<em><h3>This is the analysis of my daily life Activities and Sleep from 3-01-2022 to 2-02-2022. I have used a fitbit tracker to accumlate the data.</h3></em>
+<em><h3>This is the analysis of my daily life Activities and Sleep from 03-01-2022 to 02-02-2022. I have used a fitbit tracker to accumlate the data.</h3></em>
 <hr>
 <br>
 <p align="left">
